@@ -1,4 +1,4 @@
-const BLYNK_AUTH = "Xf-xheFTw73AzY7FZ_-CTGZMpbvzWtL0";  // Replace with your actual token
+const BLYNK_AUTH = "YHYnxLeRlIw15NMc1Dzr3p0j37byCr_e";  // Replace with your actual token
 const logDiv = document.getElementById('log');
 
 function log(msg) {
